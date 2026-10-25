@@ -34,7 +34,7 @@ A bilingual (English / Arabic) dark-theme landing page for **ClinicOS**, a clini
 Requires Node.js 18 or newer.
 
 ```bash
-git clone https://github.com/AbdelazizDevo/clinicos-landing.git
+git clone https://github.com/abdelazizdevo/clinicos-landing.git
 cd clinicos-landing
 npm install
 npm run dev
